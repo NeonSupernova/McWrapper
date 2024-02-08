@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="d"
+                 name="docs"
+                 start-page="How-to-use.md">
+
+    <toc-element topic="How-to-use.md" accepts-web-file-names-ref="1704f875"/>
+</instance-profile>
